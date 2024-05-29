@@ -1,0 +1,81 @@
+{
+  "_fetch-0a44356a.js": {
+    "file": "assets/fetch-0a44356a.js"
+  },
+  "public/themes/sleek/assets/img/bg/bg.png": {
+    "file": "assets/bg-45d19523.png",
+    "src": "public/themes/sleek/assets/img/bg/bg.png"
+  },
+  "resources/views/classic/js/app.js": {
+    "file": "assets/app-57f2f828.js",
+    "imports": [
+      "_fetch-0a44356a.js"
+    ],
+    "isEntry": true,
+    "src": "resources/views/classic/js/app.js"
+  },
+  "resources/views/classic/scss/dashboard.scss": {
+    "file": "assets/dashboard-260ca752.css",
+    "isEntry": true,
+    "src": "resources/views/classic/scss/dashboard.scss"
+  },
+  "resources/views/classic/scss/landing-page.scss": {
+    "file": "assets/landing-page-de16e41e.css",
+    "isEntry": true,
+    "src": "resources/views/classic/scss/landing-page.scss"
+  },
+  "resources/views/creative/js/app.js": {
+    "file": "assets/app-aadbf4ab.js",
+    "imports": [
+      "_fetch-0a44356a.js"
+    ],
+    "isEntry": true,
+    "src": "resources/views/creative/js/app.js"
+  },
+  "resources/views/creative/scss/dashboard.scss": {
+    "file": "assets/dashboard-b894806c.css",
+    "isEntry": true,
+    "src": "resources/views/creative/scss/dashboard.scss"
+  },
+  "resources/views/creative/scss/landing-page.scss": {
+    "file": "assets/landing-page-a9615d55.css",
+    "isEntry": true,
+    "src": "resources/views/creative/scss/landing-page.scss"
+  },
+  "resources/views/default/js/app.js": {
+    "file": "assets/app-abaa0f1c.js",
+    "imports": [
+      "_fetch-0a44356a.js"
+    ],
+    "isEntry": true,
+    "src": "resources/views/default/js/app.js"
+  },
+  "resources/views/default/scss/dashboard.scss": {
+    "file": "assets/dashboard-b894806c.css",
+    "isEntry": true,
+    "src": "resources/views/creative/scss/dashboard.scss"
+  },
+  "resources/views/default/scss/landing-page.scss": {
+    "file": "assets/landing-page-de16e41e.css",
+    "isEntry": true,
+    "src": "resources/views/classic/scss/landing-page.scss"
+  },
+  "resources/views/sleek/js/app.js": {
+    "file": "assets/app-14080a5e.js",
+    "imports": [
+      "_fetch-0a44356a.js"
+    ],
+    "isEntry": true,
+    "src": "resources/views/sleek/js/app.js"
+  },
+  "resources/views/sleek/scss/dashboard.scss": {
+    "file": "assets/dashboard-0a820914.css",
+    "isEntry": true,
+    "src": "resources/views/sleek/scss/dashboard.scss"
+  },
+  "resources/views/sleek/scss/landing-page.scss": {
+    "file": "assets/landing-page-de16e41e.css",
+    "isEntry": true,
+    "src": "resources/views/classic/scss/landing-page.scss"
+  }
+}
